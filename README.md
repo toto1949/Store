@@ -1,6 +1,4 @@
-# Project Title
-
-Brief description of the project.
+# Store
 
 ## Overview
 
@@ -17,20 +15,21 @@ The Store Management System is a comprehensive solution designed to streamline t
 
 - **Spring**: Utilized for backend development.
 
-## Features
-
-- Describe key features or functionalities of your project.
-- Highlight any unique or standout aspects.
 
 ## Getting Started
 
-### Prerequisites
+### Frontend
 
-- List any prerequisites or requirements to run the project.
+To set up the frontend part of the project, ensure you have Node.js installed. If you haven't installed Node.js yet, you can download it from [here](https://nodejs.org/en/download).
 
-### Installation
+### Backend
+
+For the backend, you'll need Java version greater than 17. If you haven't installed Java 17 or a later version, you can download it from [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html).
+
+
+## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_project.git
-   cd your_project
+   git clone https://github.com/toto1949/Store.git
+   cd Store
