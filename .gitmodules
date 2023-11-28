@@ -1,3 +1,6 @@
 [submodule "BackEnd-Store"]
 	path = BackEnd-Store
 	url = https://github.com/toto1949/BackEnd-Store.git
+[submodule "FrontEnd-Store"]
+	path = FrontEnd-Store
+	url = https://github.com/toto1949/FrontEnd-Store.git
